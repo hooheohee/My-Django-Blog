@@ -2,10 +2,11 @@
 
 This is my first django project.
 
-## Install dependencies
+## Install packages
 
-1. Install cripsy forms: `pip install django-crispy-forms`
-2. Install Pillow: `pip install Pillow`
+1. Install django: `pip install django`
+2. Install cripsy forms: `pip install django-crispy-forms`
+3. Install Pillow: `pip install Pillow`
 
 ## Start 
 
