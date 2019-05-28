@@ -4,6 +4,7 @@ This is my first django project -- a blog.
 
 ## About this project
 
+This project was created following the tutorial from [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p).  
 Framework - Django  
 Dev DB - SQLite  
 Prod DB - PostgreSQL  
